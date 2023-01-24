@@ -12705,30 +12705,6 @@ pre {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.cid-ttaK2HnI6Z {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #191919;
-}
-.cid-ttaK2HnI6Z .line {
-  width: 55px;
-  margin-bottom: 0.5rem;
-  height: 5px;
-  display: inline-block;
-  background: linear-gradient(to left, #c2002d, #e9204e);
-}
-.cid-ttaK2HnI6Z .mbr-text,
-.cid-ttaK2HnI6Z .mbr-section-btn {
-  color: #999999;
-}
-.cid-ttaK2HnI6Z img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-ttaK2HnI6Z img {
-    width: 96%;
-  }
-}
 .cid-tpQRKirfKd {
   padding-top: 90px;
   padding-bottom: 135px;
